@@ -1,0 +1,31 @@
+{"results":
+  [{"id":2 ,
+    "title":"Ghost in the Machine",
+    "artist":"The Police",
+    "cover_art":"ghost_in_the_machine.jpg",
+    "tracks":["Spirits in the Material World", "Every Little Thing She Does Is Magic", "Invisible Sun", "Hungry for You (J'aurais toujours faim de toi)", "Demolition Man", "Too Much Information", "Rehumanise Yourself", "One World (Not Three)", "Ωmegaman", "Secret Journey", "Darkness"]
+  },
+   {"id":6,
+    "title":"Red",
+    "artist":"Black Uhuru",
+    "cover_art":"red.jpg",
+    "tracks":["Youth of Eglington", "Sponji Reggae", "Sistren", "Journey", "Utterance", "Puff She Puff", "Rockstone", "Carbine", "Sponji Reggae", "Trodding"]
+   },
+   {"id":22,
+    "title":"The Division Bell",
+    "artist":"Pink Floyd",
+    "cover_art":"the_division_bell.jpg",
+    "tracks":["Cluster One", "What Do You Want from Me", "Poles Apart", "Marooned", "A Great Day for Freedom", "Wearing the Inside Out", "Take It Back", "Coming Back to Life", "Keep Talking", "Lost for Words", "High Hopes"]
+   },
+   {"id":18,
+    "title":"Thriller",
+    "artist":"Michael Jackson",
+    "cover_art":"thriller.jpg",
+    "tracks":["Wanna Be Startin' Somethin'", "Baby Be Mine", "The Girl Is Mine", "Thriller", "Beat It", "Billie Jean", "Human Nature", "P.Y.T. (Pretty Young Thing)", "The Lady in My Life"]
+   },
+   {"id":55,
+    "title":"21",
+    "artist":"Adele",
+    "cover_art":"21.jpg",
+    "tracks":["Rolling in the Deep", "Rumour Has It", "Turning Tables", "Don't You Remember", "Set Fire to the Rain", "He Won't Go", "Take It All", "I'll Be Waiting", "One and Only", "Lovesong", "Someone like You"]
+   }]}
